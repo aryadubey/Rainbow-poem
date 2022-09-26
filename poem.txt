@@ -3,6 +3,7 @@ The Rainbow
 Red
 Orange
 Yellow
+Peach
 Green
 Unicorn
 Blue
